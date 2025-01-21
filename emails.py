@@ -28,7 +28,7 @@ def gettime():
 def send_email(business_name, email): 
     
     email_sender = 'ruraag@gmail.com'
-    email_password = 'wjxy hygu qjvv gbqt'
+    email_password = '' # Did not include password for security reasons
     email_receiver = email; 
 
     time = gettime()
